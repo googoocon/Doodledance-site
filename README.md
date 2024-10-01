@@ -1,2 +1,2 @@
 # Doodledance-site
-Doodledance compliatino site
+Doodledance compliation site
